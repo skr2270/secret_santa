@@ -1,5 +1,3 @@
-# models/employee.py
-
 class Employee:
     def __init__(self, name: str, email: str):
         self.name = name
